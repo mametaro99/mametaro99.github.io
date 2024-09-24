@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://mametaro99.github.io"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,15 +7,15 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "20歳からのアンチエイジングブログ"
 
 theme = "mainroad"
 paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    name = "mametaro99"
+    bio = "現役大学生。情報系の学科に所属。趣味は、韓国ドラマ・水泳・ボルダリング。中学生のときに２度の骨折、高校生のときに会食恐怖症、大学３年生の時にうつ病に苦しみ、長く健康に生きるためにアンチエイジングに興味を持つ。"
     avatar = "img/avatar.png"
 
 [Params]
@@ -32,8 +32,8 @@ paginate = 20
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "豆太郎"
+  github = "mametaro99"
 
 [Params.sidebar]
     home = "right"
