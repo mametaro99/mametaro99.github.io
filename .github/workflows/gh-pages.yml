@@ -18,6 +18,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
+          repository: mametaro99/mametaro99.github.io
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           user_name: 'mametaro99'
