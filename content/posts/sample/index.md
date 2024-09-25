@@ -1,6 +1,6 @@
 ---
 title: "Sample Page"
-date: 2021-01-01
+date: 2006-01-02
 categories: ["hugo"]
 tags: ["go", "markdown"]
 menu: main
