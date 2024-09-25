@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://mametaro99.github.io/sitemap.xml
