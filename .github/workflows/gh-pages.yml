@@ -24,3 +24,4 @@ jobs:
           user_name: 'mametaro99'
           user_email: 'bearsmichimato99@gmail.com'
           commit_message: ${{ github.event.head_commit.message }}
+          target_branch: gh-pages
