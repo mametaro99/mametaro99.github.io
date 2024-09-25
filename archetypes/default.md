@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+date: 2024-09-25
 categories: [""]
 tags: [""]
 ---

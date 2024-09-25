@@ -1,6 +1,6 @@
 ---
 title: "アンチエイジングの基礎と臨床より　運動と認知機能編"
-date: 2021-01-01
+date: 2024-09-25
 categories: ["anti-aiing"]
 tags: ["go", "markdown"]
 menu: main
