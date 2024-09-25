@@ -9,7 +9,9 @@ enableRobotsTXT = true
 # ブログのタイトル
 title = "20歳からのアンチエイジングブログ"
 
-theme = "mainroad"
+[[module.imports]]
+  path = "github.com/vimux/mainroad"
+
 paginate = 20
 
 # 自己紹介
