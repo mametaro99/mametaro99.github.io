@@ -10,7 +10,9 @@
   - テーマ:marmaid
 
 CI/CD: GithubActions
+
 デプロイ: GithubPages
+
 公開URL: https://mametaro99.github.io
 
 ## 作ろうと思った動機
