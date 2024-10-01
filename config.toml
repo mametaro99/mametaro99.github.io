@@ -5,7 +5,7 @@ languageCode = "ja"
 DefaultContentLanguage = "ja"
 HasCJKLanguage = true
 enableRobotsTXT = true
-# publishDir = "public"
+#publishDir = "public"
 publishDir = "docs"
 
 
