@@ -9,7 +9,7 @@ enableRobotsTXT = true
 publishDir = "docs"
 
 
-ignoreFiles = ["README.md"]
+ignoreFiles = [".*README.md"]
 
 # ブログのタイトル
 title = "20歳からのアンチエイジングブログ"
