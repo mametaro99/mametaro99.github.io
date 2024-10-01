@@ -7,6 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 publishDir = "public"
 # publishDir = "docs"
+googleAnalytics = "G-TZT9JEL8M8"
 
 ignoreFiles = ["README.md"]
 
