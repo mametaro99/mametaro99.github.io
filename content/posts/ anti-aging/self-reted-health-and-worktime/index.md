@@ -1,5 +1,5 @@
 ---
-title: "長時間労働が主観的健康感に与える影響について"
+title: "長時間労働が主観的健康感に与える影響に"
 date: 2024-09-30
 categories: ["anti-aiing"]
 tags: ["go", "markdown"]
