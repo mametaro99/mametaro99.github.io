@@ -50,3 +50,6 @@ paginate = 20
 
 [permalinks]
   posts = "/:filename"
+
+[taxonomies]
+  author = "authors"
