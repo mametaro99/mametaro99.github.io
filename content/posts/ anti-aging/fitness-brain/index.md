@@ -3,7 +3,6 @@ title: "アンチエイジングの基礎と臨床より　運動と認知機能
 date: 2024-09-25
 categories: ["anti-aiing"]
 tags: ["go", "markdown"]
-menu: main
 ---
 
 こんにちは。豆太郎です。

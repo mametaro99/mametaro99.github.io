@@ -3,7 +3,6 @@ title: "アンチエイジングの基礎と臨床より　ロスマリン酸編
 date: 2024-09-27
 categories: ["anti-aiing"]
 tags: ["go", "markdown"]
-menu: main
 ---
 
 こんにちは。今回は、脳の機能を高めてくれるロスマリン酸について紹介しようと思います。

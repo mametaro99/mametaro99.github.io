@@ -3,7 +3,6 @@ title: "アンチエイジングの基礎と臨床より　レスベラトロー
 date: 2024-09-26
 categories: ["anti-aiing"]
 tags: ["go", "markdown"]
-menu: main
 ---
 
 こんにちは。今回は、ポリフェノールの一種であるレスベラトロールについて紹介します。
