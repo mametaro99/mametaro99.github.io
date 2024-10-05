@@ -6,17 +6,38 @@
     <description>Recent content on 20歳からのアンチエイジングブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mametaro99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>食物繊維の食べる量を増やせば、死亡率が下がる？</title>
+      <link>https://mametaro99.github.io/dietary-fiber-and-long-life/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mametaro99.github.io/dietary-fiber-and-long-life/</guid>
+      <description>こんにちは。豆太郎です。 今回は、食物繊維の摂取量と健康について紹介します。 食物繊維と聞かれると、個人的には栄養にならずに便として排出される,</description>
+    </item>
+    <item>
+      <title>腸内フローラで重要なバクテロイデス門について</title>
+      <link>https://mametaro99.github.io/intestinal-flora/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mametaro99.github.io/intestinal-flora/</guid>
+      <description>こんにちは。今回は、腸内フローラについて解説したいと思います。 また、その中でもとくに健康に重要だと思われるバクテロイデス門についても解説しま</description>
+    </item>
+    <item>
+      <title>宗教心が高い人は、長生きする？</title>
+      <link>https://mametaro99.github.io/faith_and_health/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mametaro99.github.io/faith_and_health/</guid>
+      <description>こんにちは。今回は、信仰心と健康についての研究について紹介したいと思います。 宗教については、「うさんくさい」といった否定的な考えを持つ人が多</description>
+    </item>
     <item>
       <title>孤独感が健康に及ぼす影響について　まとめ</title>
       <link>https://mametaro99.github.io/loneliness-and-health/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://mametaro99.github.io/loneliness-and-health/</guid>
-      <description>こんにちは。豆太郎です。 初めての投稿となります。このブログでは、健康で長生きするためのアンチエイジング研究の最新情報をお届けします。 孤独が健</description>
+      <description>こんにちは。豆太郎です。 このブログでは、健康で長生きするためのアンチエイジング研究の最新情報をお届けします。 孤独が健康に与える影響について 今</description>
     </item>
     <item>
-      <title>長時間労働が主観的健康感に与える影響に</title>
+      <title>長時間労働が主観的健康感に与える影響について</title>
       <link>https://mametaro99.github.io/self-reted-health-and-worktime/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://mametaro99.github.io/self-reted-health-and-worktime/</guid>
@@ -63,13 +84,6 @@
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://mametaro99.github.io/look/</guid>
       <description>こんにちは。豆太郎です。 初めての投稿となります。このブログでは、健康で長生きするためのアンチエイジング研究の最新情報をお届けします。 今回読ん</description>
-    </item>
-    <item>
-      <title>Sample Page</title>
-      <link>https://mametaro99.github.io/sample/</link>
-      <pubDate>Mon, 02 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://mametaro99.github.io/sample/</guid>
-      <description>HUGOのサンプル h1 h2 h3 h4 h5 h6 a b c d e f $ bash BOLD italic 44GG44KT44GT #include &amp;lt;stdio.h&amp;gt; int main() { printf(&amp;#34;Hello, World!\n&amp;#34;); return 0; }</description>
     </item>
   </channel>
 </rss>
