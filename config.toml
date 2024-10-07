@@ -6,7 +6,7 @@ DefaultContentLanguage = "ja"
 HasCJKLanguage = true
 enableRobotsTXT = true
 # publishDir = "public"
-# publishDir = "docs"
+publishDir = "docs"
 
 
 ignoreFiles = [".*README.md"]
