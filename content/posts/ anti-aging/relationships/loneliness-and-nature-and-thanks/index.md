@@ -5,6 +5,8 @@ categories: ["anti-aiing"]
 tags: ["go", "markdown"]
 ---
 
+![This is a image](image.png)
+
 こんにちは。豆太郎です。
 今回は、一人でもできる孤独の対処法について紹介します。
 
