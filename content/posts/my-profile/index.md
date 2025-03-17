@@ -22,7 +22,7 @@ tags: ["go", "markdown"]
 - Atcoder: [Mametaro700](https://atcoder.jp/users/Mametaro700)
 - wantedly: https://www.wantedly.com/id/iponweqtvafdxygz
 - slideshare: [bearsmichimato99](https://www.slideshare.net/bearsmichimato99)
-- twitter [zero_mametaro0](https://x.com/zero_mametaro0)
+- twitter: [zero_mametaro0](https://x.com/zero_mametaro0)
 ### 趣味
 - 登山
 - 水泳
