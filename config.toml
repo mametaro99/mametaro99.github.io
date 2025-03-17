@@ -19,10 +19,22 @@ title = "20歳からのアンチエイジングブログ"
 
 paginate = 20
 
+[[Menus.main]]
+  Name = "プロフィール"
+  URL = "/my-profile/"
+[[Menus.main]]
+  Name = "アンチエイジング"
+  URL = "/categories/anti-aiing/"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+
 # 自己紹介
 [Author]
     name = "mametaro99"
-    bio = "現役大学生。情報系の学科に所属。趣味は、韓国ドラマ・水泳・ボルダリング。"
+    bio = "現役大学生。情報系の学科に所属。趣味は、水泳・登山・読書。"
     avatar = "img/avatar.png"
 
 [Params]
